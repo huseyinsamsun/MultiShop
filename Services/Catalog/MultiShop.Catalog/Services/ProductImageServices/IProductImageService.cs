@@ -1,6 +1,6 @@
-﻿using MultiShop.Catalog.Dtos.ProductImageDtos;
+﻿using GlobalAuto.Catalog.Dtos.ProductImageDtos;
 
-namespace MultiShop.Catalog.Services.ProductImageServices
+namespace GlobalAuto.Catalog.Services.ProductImageServices
 {
     public interface IProductImageService
     {

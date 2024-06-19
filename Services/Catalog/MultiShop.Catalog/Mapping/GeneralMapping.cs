@@ -1,11 +1,11 @@
 ﻿using AutoMapper;
-using MultiShop.Catalog.Dtos.CategoryDtos;
-using MultiShop.Catalog.Dtos.ProductDetailDtos;
-using MultiShop.Catalog.Dtos.ProductDtos;
-using MultiShop.Catalog.Dtos.ProductImageDtos;
-using MultiShop.Catalog.Entities;
+using GlobalAuto.Catalog.Dtos.CategoryDtos;
+using GlobalAuto.Catalog.Dtos.ProductDetailDtos;
+using GlobalAuto.Catalog.Dtos.ProductDtos;
+using GlobalAuto.Catalog.Dtos.ProductImageDtos;
+using GlobalAuto.Catalog.Entities;
 
-namespace MultiShop.Catalog.Mapping
+namespace GlobalAuto.Catalog.Mapping
 {
     public class GeneralMapping:Profile
     {

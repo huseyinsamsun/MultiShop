@@ -1,6 +1,6 @@
-﻿using MultiShop.Catalog.Dtos.ProductDetailDtos;
+﻿using GlobalAuto.Catalog.Dtos.ProductDetailDtos;
 
-namespace MultiShop.Catalog.Services.ProductDetailServices
+namespace GlobalAuto.Catalog.Services.ProductDetailServices
 {
     public interface IProductDetailService
     {

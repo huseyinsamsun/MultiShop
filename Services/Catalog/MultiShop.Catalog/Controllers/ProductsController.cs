@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MultiShop.Catalog.Dtos.ProductDtos;
-using MultiShop.Catalog.Services.ProductServices;
+using GlobalAuto.Catalog.Dtos.ProductDtos;
+using GlobalAuto.Catalog.Services.ProductServices;
 
-namespace MultiShop.Catalog.Controllers
+namespace GlobalAuto.Catalog.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

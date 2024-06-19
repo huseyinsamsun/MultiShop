@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace MultiShop.Catalog.Entities
+namespace GlobalAuto.Catalog.Entities
 {
     public class Category
     {

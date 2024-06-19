@@ -1,11 +1,11 @@
 ﻿using AutoMapper;
 using MongoDB.Driver;
-using MultiShop.Catalog.Dtos.CategoryDtos;
-using MultiShop.Catalog.Dtos.ProductDtos;
-using MultiShop.Catalog.Entities;
-using MultiShop.Catalog.Settings;
+using GlobalAuto.Catalog.Dtos.CategoryDtos;
+using GlobalAuto.Catalog.Dtos.ProductDtos;
+using GlobalAuto.Catalog.Entities;
+using GlobalAuto.Catalog.Settings;
 
-namespace MultiShop.Catalog.Services.ProductServices
+namespace GlobalAuto.Catalog.Services.ProductServices
 {
     public class ProductService : IProductService
     {

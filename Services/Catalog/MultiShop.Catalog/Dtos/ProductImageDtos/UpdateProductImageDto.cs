@@ -1,4 +1,4 @@
-﻿namespace MultiShop.Catalog.Dtos.ProductImageDtos
+﻿namespace GlobalAuto.Catalog.Dtos.ProductImageDtos
 {
     public class UpdateProductImageDto
     {

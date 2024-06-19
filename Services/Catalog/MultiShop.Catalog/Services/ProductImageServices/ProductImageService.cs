@@ -1,10 +1,10 @@
 ﻿using AutoMapper;
 using MongoDB.Driver;
-using MultiShop.Catalog.Dtos.ProductImageDtos;
-using MultiShop.Catalog.Entities;
-using MultiShop.Catalog.Settings;
+using GlobalAuto.Catalog.Dtos.ProductImageDtos;
+using GlobalAuto.Catalog.Entities;
+using GlobalAuto.Catalog.Settings;
 
-namespace MultiShop.Catalog.Services.ProductImageServices
+namespace GlobalAuto.Catalog.Services.ProductImageServices
 {
     public class ProductImageService:IProductImageService
     {

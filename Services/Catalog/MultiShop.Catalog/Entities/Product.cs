@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 
-namespace MultiShop.Catalog.Entities
+namespace GlobalAuto.Catalog.Entities
 {
     public class Product
     {

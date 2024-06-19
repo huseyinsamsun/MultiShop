@@ -1,4 +1,4 @@
-﻿namespace MultiShop.Catalog.Dtos.ProductDtos
+﻿namespace GlobalAuto.Catalog.Dtos.ProductDtos
 {
     public class GetByIdProductDto
     {

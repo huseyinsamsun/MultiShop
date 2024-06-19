@@ -1,4 +1,4 @@
-﻿namespace MultiShop.Catalog.Dtos.CategoryDtos
+﻿namespace GlobalAuto.Catalog.Dtos.CategoryDtos
 {
     public class GetByIdCategoryDto
     {

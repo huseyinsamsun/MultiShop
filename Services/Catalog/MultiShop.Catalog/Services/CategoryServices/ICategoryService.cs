@@ -1,6 +1,6 @@
-﻿using MultiShop.Catalog.Dtos.CategoryDtos;
+﻿using GlobalAuto.Catalog.Dtos.CategoryDtos;
 
-namespace MultiShop.Catalog.Services.CategoryServices
+namespace GlobalAuto.Catalog.Services.CategoryServices
 {
     public interface ICategoryService
     {

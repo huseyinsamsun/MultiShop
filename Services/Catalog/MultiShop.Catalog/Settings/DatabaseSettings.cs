@@ -1,4 +1,4 @@
-﻿namespace MultiShop.Catalog.Settings
+﻿namespace GlobalAuto.Catalog.Settings
 {
     public class DatabaseSettings:IDatabaseSettings
     {

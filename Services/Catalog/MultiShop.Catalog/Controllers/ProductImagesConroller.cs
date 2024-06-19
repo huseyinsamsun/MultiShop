@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MultiShop.Catalog.Dtos.ProductImageDtos;
-using MultiShop.Catalog.Services.ProductImageServices;
+using GlobalAuto.Catalog.Dtos.ProductImageDtos;
+using GlobalAuto.Catalog.Services.ProductImageServices;
 
-namespace MultiShop.Catalog.Controllers
+namespace GlobalAuto.Catalog.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
